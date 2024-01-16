@@ -34,7 +34,7 @@ const music_list = [
         music : 'music/Phir Bhi Tumko.m4a'
     },
     {
-        img :'images/AjabSi.png',
+        img :'images/ajabSi.png',
         name : 'Ajab Si',
         artist : 'KK',
         music : 'music/Ajab Si.m4a'
